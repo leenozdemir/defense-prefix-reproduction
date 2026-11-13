@@ -3,7 +3,7 @@
 Code, saved outputs and executed notebooks for the YZM5110 Multimodal Learning research project (Leen Özdemir).
 
 - **Reproduced paper:** H. Azuma and Y. Matsui, *Defense-Prefix for Preventing Typographic Attacks on CLIP*, ICCV Workshops 2023 ([IEEE Xplore 10350494](https://ieeexplore.ieee.org/document/10350494), [arXiv 2304.04512](https://arxiv.org/abs/2304.04512)). Original code: [azuma164/Defense-Prefix](https://github.com/azuma164/Defense-Prefix), pinned at commit `50d7887017b295e76b15e56c137ab47e68264448`.
-- **Report:** `report/Ozdemir_YZM5110_Research.pdf`.
+- **Report:** *Ozdemir_YZM5110_Research.pdf*, submitted separately through the course system. Its first page links to this repository.
 - **Submitted version:** tag `v1.0-report`.
 
 ## What this repository shows
@@ -28,7 +28,6 @@ outputs/results/       evaluation CSVs, per-image correctness, seen/unseen predi
 outputs/failure_cases/ per-image predictions on RTA-100 / PAINT, example grids, summaries
 outputs/env/           full pip freeze of the training environment
 figures/               report figures (PNG + PDF), produced by scripts/make_figures.py
-report/                report PDF and LaTeX sources (tables produced by scripts/make_tables.py)
 ```
 
 Run names: `dp_seed{0,1,2}` = reproduction; `vocab_seed{0,1,2}` = DP + diversified attack vocabulary (called "everyday words" in the notebooks); `ctrl_renderer`, `ctrl_distractors`, `ctrl_identity_only`, `ctrl_random_s{0..4}` = controls.
@@ -39,7 +38,7 @@ Run names: `dp_seed{0,1,2}` = reproduction; `vocab_seed{0,1,2}` = DP + diversifi
 pip install numpy matplotlib          # torch is optional; scripts/ptload.py reads the .pt files without it
 python scripts/analyze_word_groups.py  # -> outputs/results/groups06.json
 python scripts/analyze_paired.py       # -> outputs/results/paired06.json
-python scripts/make_tables.py          # -> report/tables/*.tex
+python scripts/make_tables.py          # -> report/tables/*.tex (the LaTeX tables of the report)
 python scripts/make_figures.py         # -> figures/*.png, *.pdf  (fig4 also needs the authors' token, see below)
 ```
 
