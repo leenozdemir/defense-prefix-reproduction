@@ -1,6 +1,6 @@
 # Reproducing Defense-Prefix for CLIP: Word-General Robustness and the Limits of Attack-Vocabulary Diversification
 
-Code, saved outputs and executed notebooks for the YZM5110 Multimodal Learning research project (Leen Özdemir, November 2026).
+Code, saved outputs and executed notebooks for the YZM5110 Multimodal Learning research project (Leen Özdemir).
 
 - **Reproduced paper:** H. Azuma and Y. Matsui, *Defense-Prefix for Preventing Typographic Attacks on CLIP*, ICCV Workshops 2023 ([IEEE Xplore 10350494](https://ieeexplore.ieee.org/document/10350494), [arXiv 2304.04512](https://arxiv.org/abs/2304.04512)). Original code: [azuma164/Defense-Prefix](https://github.com/azuma164/Defense-Prefix), pinned at commit `50d7887017b295e76b15e56c137ab47e68264448`.
 - **Report:** `report/Ozdemir_YZM5110_Research.pdf`.
