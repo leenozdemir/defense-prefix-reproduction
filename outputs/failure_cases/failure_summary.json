@@ -1,0 +1,58 @@
+{
+ "rta-100": {
+  "accuracy": {
+   "clip": 46.6,
+   "authors": 57.5,
+   "dp_seed0": 60.7,
+   "dp_seed1": 56.3,
+   "dp_seed2": 59.0,
+   "vocab_seed0": 59.8,
+   "vocab_seed1": 58.9,
+   "vocab_seed2": 59.0
+  },
+  "counts": {
+   "fixed": 103,
+   "broken": 9,
+   "persistent": 338,
+   "b_wins": 1,
+   "b_loses": 0,
+   "persistent_same_as_clip": 236,
+   "n": 1000
+  },
+  "written_word": {
+   "attack_success_clip": 344,
+   "attack_success_dp_majority": 158,
+   "attack_success_everyday_majority": 155,
+   "persistent_dp_predicts_text": 131,
+   "persistent_clip_predicts_text": 196
+  }
+ },
+ "paint": {
+  "accuracy": {
+   "clip": 50.0,
+   "authors": 63.64,
+   "dp_seed0": 60.0,
+   "dp_seed1": 61.82,
+   "dp_seed2": 61.82,
+   "vocab_seed0": 60.0,
+   "vocab_seed1": 63.64,
+   "vocab_seed2": 60.91
+  },
+  "counts": {
+   "fixed": 10,
+   "broken": 0,
+   "persistent": 33,
+   "b_wins": 0,
+   "b_loses": 0,
+   "persistent_same_as_clip": 26,
+   "n": 110
+  },
+  "written_word": {
+   "attack_success_clip": 34,
+   "attack_success_dp_majority": 17,
+   "attack_success_everyday_majority": 16,
+   "persistent_dp_predicts_text": 15,
+   "persistent_clip_predicts_text": 17
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "rta-100": {
+  "n": 1000,
+  "clip_acc": 466,
+  "clip_attack_success": 344,
+  "fate_of_clip_attack_successes_under_dp": {
+   "dp_correct": 110,
+   "dp_still_text": 155,
+   "dp_other_wrong": 79
+  },
+  "clip_non_text_errors": {
+   "n": 190,
+   "dp_correct": 26
+  },
+  "persistent": {
+   "n": 338,
+   "dp_predicts_text": 131,
+   "dp_other_and_clip_other_or_text": 207,
+   "clip_also_non_text_error": 138,
+   "clip_correct": 4
+  },
+  "dp_majority_errors": 415,
+  "dp_errors_that_are_text": 158
+ },
+ "paint": {
+  "n": 110,
+  "clip_acc": 55,
+  "clip_attack_success": 34,
+  "fate_of_clip_attack_successes_under_dp": {
+   "dp_correct": 12,
+   "dp_still_text": 16,
+   "dp_other_wrong": 6
+  },
+  "clip_non_text_errors": {
+   "n": 21,
+   "dp_correct": 2
+  },
+  "persistent": {
+   "n": 33,
+   "dp_predicts_text": 15,
+   "dp_other_and_clip_other_or_text": 18,
+   "clip_also_non_text_error": 16,
+   "clip_correct": 0
+  },
+  "dp_majority_errors": 42,
+  "dp_errors_that_are_text": 17
+ }
+}
