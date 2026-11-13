@@ -26,6 +26,7 @@ data/                  class names of the test sets, the 200 added training word
 outputs/runs/<run>/    learned tokens (dp_token.pt, 1x512 fp16) and train_log.json (time, memory, loss history)
 outputs/results/       evaluation CSVs, per-image correctness, seen/unseen predictions, word-level analyses
 outputs/failure_cases/ per-image predictions on RTA-100 / PAINT, example grids, summaries
+outputs/env/           full pip freeze of the training environment
 figures/               report figures (PNG + PDF), produced by scripts/make_figures.py
 report/                report PDF and LaTeX sources (tables produced by scripts/make_tables.py)
 ```
@@ -92,7 +93,7 @@ python train_dp_cached.py --train_file train_vocab.pt --extra_words v_train.txt 
 | CLIP | `openai/CLIP` commit `d05afc4` | same |
 | other | `ftfy`, `regex`, `gdown`, `tqdm`, `numpy`, `matplotlib` | same |
 
-`requirements.txt` lists the packages. A Colab update of torch from 2.11 to 2.14 gave identical evaluation numbers.
+`requirements.txt` pins the key packages. The complete environment of the training session (notebook 05, Colab) is in `outputs/env/pip_freeze_05_colab.txt`. A Colab update of torch from 2.11 to 2.14 gave identical evaluation numbers.
 
 ## Data access (licensed data is not redistributed)
 

@@ -1,12 +1,14 @@
-# Versions used for the reported runs (Colab / Kaggle, Python 3.13.16, CUDA 13.0, Tesla T4).
-torch==2.11.0          # Colab later updated to 2.14.1: identical evaluation results
-torchvision==0.26.0
-Pillow                 # 11.3.0 on Colab (test sets), 13.0.0 on Kaggle (training sets)
-ftfy
-regex
-tqdm
-gdown
-numpy
-matplotlib
-scipy                  # torchvision Stanford Cars / Flowers loaders read .mat files
-git+https://github.com/openai/CLIP.git@d05afc436d78f1c48dc0dbf8e5980a9d471f35f6
+# Key packages of the reported runs (Python 3.13.16, CUDA 13.0, Tesla T4).
+# Exact versions from the Colab session of notebook 05; the full list is outputs/env/pip_freeze_05_colab.txt.
+# Kaggle sessions used torch 2.11.0 / torchvision 0.26.0 / Pillow 13.0.0 (identical evaluation results).
+torch==2.14.1
+torchvision==0.29.1
+pillow==11.3.0
+ftfy==6.3.1
+regex==2025.11.3
+tqdm==4.67.3
+gdown==5.2.2
+numpy==2.4.6
+scipy==1.16.3
+matplotlib==3.10.0
+clip @ git+https://github.com/openai/CLIP.git@d05afc436d78f1c48dc0dbf8e5980a9d471f35f6
