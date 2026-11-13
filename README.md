@@ -130,14 +130,7 @@ The full list, with consequences, is in the report (Table II). In short:
 
 ## AI assistance
 
-Claude (Anthropic) was used for:
-- literature search;
-- explaining the paper and the code;
-- writing the new scripts and notebooks;
-- analysis and plotting scripts;
-- drafting text.
-
-The student ran all notebooks, checked the outputs and made the research decisions. Details are in the report's disclosure section.
+Claude (Anthropic) was used for search, coding and editing; the full disclosure is in the report.
 
 ## Citation of the reproduced work
 
