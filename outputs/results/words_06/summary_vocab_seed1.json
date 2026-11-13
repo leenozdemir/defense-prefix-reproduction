@@ -1,0 +1,48 @@
+[
+ {
+  "dataset": "caltech",
+  "model": "vocab_seed1",
+  "n_words_seen": 96,
+  "n_words_unseen": 96,
+  "mean_clip_hit_seen": 19.5,
+  "mean_clip_hit_unseen": 29.33,
+  "slope_on_clip_hit": 0.416,
+  "seen_effect_c": 1.22,
+  "seen_effect_ci95": [
+   -0.68,
+   3.19
+  ],
+  "imagenet100_words": 96,
+  "imagenet100_clip_hit": 19.57,
+  "imagenet100_model_hit": 5.64,
+  "everyday_train_words": 19,
+  "everyday_train_clip_hit": 21.34,
+  "everyday_train_model_hit": 4.85,
+  "everyday_heldout_words": 77,
+  "everyday_heldout_clip_hit": 31.02,
+  "everyday_heldout_model_hit": 9.25
+ },
+ {
+  "dataset": "pets",
+  "model": "vocab_seed1",
+  "n_words_seen": 100,
+  "n_words_unseen": 100,
+  "mean_clip_hit_seen": 17.41,
+  "mean_clip_hit_unseen": 50.26,
+  "slope_on_clip_hit": 0.397,
+  "seen_effect_c": 1.86,
+  "seen_effect_ci95": [
+   -0.85,
+   4.88
+  ],
+  "imagenet100_words": 100,
+  "imagenet100_clip_hit": 17.55,
+  "imagenet100_model_hit": 3.13,
+  "everyday_train_words": 24,
+  "everyday_train_clip_hit": 58.69,
+  "everyday_train_model_hit": 12.98,
+  "everyday_heldout_words": 76,
+  "everyday_heldout_clip_hit": 48.11,
+  "everyday_heldout_model_hit": 14.88
+ }
+]

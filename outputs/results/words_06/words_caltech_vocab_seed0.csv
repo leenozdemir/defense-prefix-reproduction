@@ -1,0 +1,193 @@
+word,seen,group,n,clip_hit,dp_hit,dp_acc
+American alligator,1,imagenet100,86,32.56,9.3,75.58
+American coot,1,imagenet100,88,0.0,0.0,73.86
+Dungeness crab,1,imagenet100,88,50.0,10.23,67.05
+Komodo dragon,1,imagenet100,98,38.78,3.06,65.31
+agama,1,imagenet100,100,11.0,2.0,76.0
+albatross,1,imagenet100,102,21.57,0.0,86.27
+axolotl,1,imagenet100,92,4.35,0.0,79.35
+bald eagle,1,imagenet100,100,42.0,15.0,61.0
+banded gecko,1,imagenet100,89,8.99,0.0,71.91
+barn spider,1,imagenet100,82,48.78,6.1,68.29
+bee eater,1,imagenet100,99,2.02,0.0,72.73
+bittern,1,imagenet100,83,0.0,0.0,78.31
+black and gold garden spider,1,imagenet100,69,73.91,56.52,30.43
+black grouse,1,imagenet100,94,31.91,9.57,72.34
+black swan,1,imagenet100,84,36.9,25.0,59.52
+black widow,1,imagenet100,97,27.84,8.25,77.32
+boa constrictor,1,imagenet100,100,16.0,0.0,73.0
+bulbul,1,imagenet100,107,6.54,0.0,81.31
+bustard,1,imagenet100,101,3.96,0.0,84.16
+chambered nautilus,1,imagenet100,83,1.2,0.0,78.31
+chickadee,1,imagenet100,84,1.19,0.0,82.14
+chiton,1,imagenet100,99,13.13,1.01,80.81
+cock,1,imagenet100,95,22.11,8.42,73.68
+common iguana,1,imagenet100,79,12.66,1.27,74.68
+common newt,1,imagenet100,85,1.18,0.0,77.65
+conch,1,imagenet100,106,13.21,0.0,83.02
+coucal,1,imagenet100,92,2.17,0.0,80.43
+crane,1,imagenet100,86,13.95,2.33,82.56
+diamondback,1,imagenet100,86,2.33,0.0,80.23
+drake,1,imagenet100,90,64.44,42.22,44.44
+electric ray,1,imagenet100,93,9.68,3.23,75.27
+flatworm,1,imagenet100,83,27.71,3.61,74.7
+garden spider,1,imagenet100,95,62.11,32.63,53.68
+garter snake,1,imagenet100,97,11.34,0.0,53.61
+goldfinch,1,imagenet100,76,0.0,0.0,78.95
+goldfish,1,imagenet100,88,21.59,7.95,69.32
+goose,1,imagenet100,93,16.13,1.08,81.72
+great grey owl,1,imagenet100,99,21.21,17.17,61.62
+great white shark,1,imagenet100,91,42.86,21.98,53.85
+green lizard,1,imagenet100,85,40.0,18.82,65.88
+green mamba,1,imagenet100,82,26.83,9.76,76.83
+green snake,1,imagenet100,91,45.05,27.47,53.85
+hammerhead,1,imagenet100,81,1.23,0.0,74.07
+harvestman,1,imagenet100,87,4.6,0.0,75.86
+hen,1,imagenet100,103,2.91,0.0,87.38
+hermit crab,1,imagenet100,91,25.27,3.3,60.44
+hognose snake,1,imagenet100,118,36.44,10.17,57.63
+hornbill,1,imagenet100,107,0.0,0.0,79.44
+horned viper,1,imagenet100,86,3.49,0.0,70.93
+hummingbird,1,imagenet100,97,16.49,4.12,63.92
+indigo bunting,1,imagenet100,62,3.23,0.0,79.03
+jellyfish,1,imagenet100,71,14.08,2.82,74.65
+king snake,1,imagenet100,85,17.65,2.35,57.65
+kite,1,imagenet100,86,12.79,0.0,83.72
+leatherback turtle,1,imagenet100,73,31.51,10.96,52.05
+limpkin,1,imagenet100,85,1.18,0.0,72.94
+loggerhead,1,imagenet100,84,15.48,2.38,76.19
+lorikeet,1,imagenet100,89,1.12,0.0,84.27
+macaw,1,imagenet100,81,2.47,0.0,74.07
+magpie,1,imagenet100,101,4.95,0.0,84.16
+mud turtle,1,imagenet100,97,39.18,7.22,68.04
+nematode,1,imagenet100,91,24.18,1.1,75.82
+night snake,1,imagenet100,96,52.08,44.79,40.62
+oystercatcher,1,imagenet100,77,1.3,0.0,74.03
+peacock,1,imagenet100,101,0.99,0.99,79.21
+pelican,1,imagenet100,100,6.0,1.0,73.0
+prairie chicken,1,imagenet100,92,45.65,16.3,44.57
+ptarmigan,1,imagenet100,91,0.0,0.0,76.92
+red-backed sandpiper,1,imagenet100,104,21.15,0.0,63.46
+redshank,1,imagenet100,94,0.0,0.0,78.72
+rock crab,1,imagenet100,121,46.28,9.09,61.98
+sea anemone,1,imagenet100,104,5.77,0.0,75.96
+sea lion,1,imagenet100,75,12.0,4.0,64.0
+sea slug,1,imagenet100,92,8.7,1.09,71.74
+sea snake,1,imagenet100,100,33.0,18.0,62.0
+sidewinder,1,imagenet100,119,57.14,0.84,78.15
+snail,1,imagenet100,84,13.1,3.57,76.19
+spiny lobster,1,imagenet100,72,37.5,11.11,65.28
+spoonbill,1,imagenet100,79,11.39,2.53,75.95
+spotted salamander,1,imagenet100,91,8.79,1.1,73.63
+stingray,1,imagenet100,79,7.59,1.27,78.48
+sulphur-crested cockatoo,1,imagenet100,83,0.0,0.0,71.08
+tailed frog,1,imagenet100,92,38.04,21.74,64.13
+tarantula,1,imagenet100,89,11.24,0.0,80.9
+tench,1,imagenet100,78,11.54,0.0,82.05
+terrapin,1,imagenet100,88,12.5,0.0,77.27
+thunder snake,1,imagenet100,81,62.96,39.51,55.56
+tiger shark,1,imagenet100,90,47.78,30.0,52.22
+toucan,1,imagenet100,105,1.9,0.0,79.05
+vine snake,1,imagenet100,105,4.76,0.0,58.1
+wallaby,1,imagenet100,88,9.09,2.27,77.27
+water ouzel,1,imagenet100,98,5.1,0.0,77.55
+whiptail,1,imagenet100,79,21.52,2.53,73.42
+white stork,1,imagenet100,77,18.18,5.19,63.64
+wolf spider,1,imagenet100,77,59.74,14.29,58.44
+wombat,1,imagenet100,84,11.9,2.38,73.81
+Afghan Hound,0,everyday_heldout,97,47.42,23.71,53.61
+Alpine ibex,0,everyday_heldout,96,11.46,5.21,68.75
+Australian Terrier,0,everyday_heldout,73,35.62,6.85,63.01
+Basenji,0,everyday_heldout,101,3.96,0.0,77.23
+Beagle,0,everyday_heldout,99,25.25,0.0,78.79
+Bloodhound,0,everyday_heldout,97,7.22,0.0,72.16
+Bluetick Coonhound,0,everyday_heldout,86,17.44,3.49,65.12
+Bouvier des Flandres dog,0,everyday_heldout,83,78.31,32.53,36.14
+Bullmastiff,0,everyday_heldout,91,1.1,0.0,78.02
+Carolina anole,0,everyday_heldout,99,10.1,2.02,77.78
+French horn,0,everyday_heldout,82,48.78,17.07,71.95
+Kerry Blue Terrier,0,everyday_heldout,83,44.58,13.25,67.47
+Malinois,0,everyday_heldout,79,0.0,0.0,77.22
+Persian cat,0,everyday_heldout,85,60.0,17.65,65.88
+Weimaraner,0,everyday_heldout,105,0.95,0.0,76.19
+abaya,0,everyday_train,78,8.97,0.0,76.92
+acorn squash,0,everyday_train,94,11.7,0.0,78.72
+altar,0,everyday_train,81,1.23,0.0,77.78
+ambulance,0,everyday_heldout,121,28.93,10.74,65.29
+apiary,0,everyday_heldout,105,1.9,0.0,76.19
+baby pacifier,0,everyday_heldout,72,52.78,16.67,65.28
+backpack,0,everyday_heldout,83,44.58,13.25,72.29
+bagel,0,everyday_heldout,93,41.94,10.75,75.27
+balloon,0,everyday_heldout,85,30.59,16.47,67.06
+banana,0,everyday_heldout,92,16.3,9.78,75.0
+bow tie,0,everyday_heldout,100,31.0,5.0,77.0
+car mirror,0,everyday_heldout,85,37.65,15.29,65.88
+cello,0,everyday_heldout,90,18.89,2.22,70.0
+centipede,0,everyday_heldout,79,16.46,0.0,84.81
+clothes iron,0,everyday_heldout,86,32.56,20.93,53.49
+container ship,0,everyday_train,88,50.0,29.55,57.95
+corn cob,0,everyday_heldout,91,25.27,2.2,75.82
+cottontail rabbit,0,everyday_heldout,91,47.25,29.67,52.75
+cougar,0,everyday_heldout,107,26.17,1.87,77.57
+digital watch,0,everyday_heldout,98,71.43,42.86,40.82
+dough,0,everyday_train,84,28.57,4.76,76.19
+dust jacket,0,everyday_heldout,92,3.26,0.0,77.17
+envelope,0,everyday_train,75,4.0,0.0,73.33
+fire screen,0,everyday_heldout,90,40.0,21.11,63.33
+fireboat,0,everyday_heldout,107,11.21,7.48,74.77
+fishing casting reel,0,everyday_heldout,104,59.62,22.12,50.0
+ford model t,0,everyday_heldout,89,38.2,10.11,68.54
+fountain,0,everyday_heldout,79,17.72,3.8,67.09
+front curtain,0,everyday_heldout,79,16.46,5.06,73.42
+frying pan,0,everyday_train,100,28.0,8.0,71.0
+giant panda,0,everyday_heldout,104,37.5,10.58,68.27
+gong,0,everyday_train,86,9.3,0.0,81.4
+hair spray,0,everyday_heldout,87,56.32,21.84,62.07
+half-track,0,everyday_train,84,7.14,1.19,73.81
+hammer,0,everyday_heldout,84,46.43,4.76,77.38
+harmonica,0,everyday_train,100,19.0,1.0,80.0
+howler monkey,0,everyday_heldout,77,37.66,1.3,70.13
+hunting bow,0,everyday_train,91,23.08,7.69,69.23
+indri,0,everyday_heldout,86,4.65,0.0,88.37
+isopod,0,everyday_heldout,101,6.93,0.0,84.16
+jeep,0,everyday_heldout,95,37.89,6.32,77.89
+junco,0,everyday_heldout,100,0.0,0.0,83.0
+keyboard space bar,0,everyday_heldout,91,72.53,36.26,51.65
+lakeshore,0,everyday_train,76,34.21,10.53,65.79
+lifeboat,0,everyday_heldout,94,22.34,5.32,74.47
+mailbox,0,everyday_train,88,11.36,1.14,68.18
+megalith,0,everyday_heldout,89,15.73,1.12,82.02
+minivan,0,everyday_heldout,92,17.39,0.0,79.35
+mousetrap,0,everyday_heldout,84,41.67,9.52,76.19
+obelisk,0,everyday_train,101,9.9,0.0,76.24
+oxygen mask,0,everyday_heldout,97,58.76,23.71,69.07
+partridge,0,everyday_heldout,89,2.25,0.0,78.65
+pedestal,0,everyday_train,92,14.13,1.09,75.0
+pig,0,everyday_heldout,103,17.48,8.74,80.58
+planetarium,0,everyday_heldout,77,20.78,6.49,70.13
+plastic bag,0,everyday_heldout,97,69.07,46.39,36.08
+pool table,0,everyday_heldout,119,19.33,8.4,69.75
+power drill,0,everyday_heldout,77,31.17,5.19,67.53
+punching bag,0,everyday_heldout,93,62.37,17.2,69.89
+radiator,0,everyday_heldout,88,9.09,0.0,73.86
+radio,0,everyday_heldout,106,44.34,20.75,66.04
+radio telescope,0,everyday_train,100,5.0,3.0,44.0
+rain barrel,0,everyday_heldout,86,27.91,8.14,68.6
+reflex camera,0,everyday_heldout,118,56.78,3.39,69.49
+restaurant,0,everyday_heldout,81,35.8,16.05,70.37
+seat belt,0,everyday_train,99,36.36,9.09,68.69
+shipwreck,0,everyday_heldout,71,7.04,4.23,81.69
+shoji screen / room divider,0,everyday_heldout,69,39.13,21.74,56.52
+silver salmon,0,everyday_heldout,81,50.62,32.1,56.79
+sombrero,0,everyday_heldout,88,19.32,2.27,76.14
+space heater,0,everyday_heldout,85,45.88,16.47,65.88
+tape player,0,everyday_heldout,82,34.15,12.2,69.51
+teddy bear,0,everyday_heldout,84,55.95,14.29,63.1
+thatched roof,0,everyday_heldout,95,14.74,6.32,73.68
+trash can,0,everyday_heldout,102,18.63,3.92,75.49
+turnstile,0,everyday_heldout,91,19.78,0.0,76.92
+velvet fabric,0,everyday_heldout,88,51.14,11.36,70.45
+vending machine,0,everyday_train,92,56.52,19.57,66.3
+waffle iron,0,everyday_heldout,98,53.06,18.37,66.33
+weighing scale,0,everyday_heldout,62,48.39,19.35,66.13
+whistle,0,everyday_train,83,44.58,7.23,74.7

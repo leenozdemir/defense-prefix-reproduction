@@ -1,0 +1,6 @@
+{
+ "clip_attack_success_imagenet100_words": 20.89,
+ "clip_attack_success_everyday_words": 19.23,
+ "n_imagenet100": 64975,
+ "n_everyday": 65025
+}

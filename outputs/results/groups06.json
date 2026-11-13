@@ -1,0 +1,230 @@
+{
+ "caltech": {
+  "acc_clean": {
+   "clip": 81.15,
+   "authors": 82.98,
+   "repro": 82.41,
+   "vocab": 82.62,
+   "ctrl_renderer": 82.38,
+   "ctrl_distractors": 82.81,
+   "n": 8677,
+   "repro_sd": 0.39,
+   "vocab_sd": 0.54,
+   "vocab_minus_repro": 0.21,
+   "ci95": [
+    -0.02,
+    0.44
+   ]
+  },
+  "hit_in100": {
+   "clip": 19.57,
+   "authors": 4.56,
+   "repro": 4.33,
+   "vocab": 6.05,
+   "ctrl_renderer": 4.02,
+   "ctrl_distractors": 5.42,
+   "n": 8677,
+   "repro_sd": 0.45,
+   "vocab_sd": 0.37,
+   "vocab_minus_repro": 1.72,
+   "ci95": [
+    1.5,
+    1.95
+   ]
+  },
+  "acc_in100": {
+   "clip": 58.57,
+   "authors": 72.87,
+   "repro": 73.11,
+   "vocab": 70.77,
+   "ctrl_renderer": 73.08,
+   "ctrl_distractors": 72.14,
+   "n": 8677,
+   "repro_sd": 0.34,
+   "vocab_sd": 0.23,
+   "vocab_minus_repro": -2.33,
+   "ci95": [
+    -2.68,
+    -2.01
+   ]
+  },
+  "hit_everyday_train": {
+   "clip": 21.34,
+   "authors": 6.44,
+   "repro": 6.01,
+   "vocab": 5.38,
+   "ctrl_renderer": 5.85,
+   "ctrl_distractors": 6.5,
+   "n": 1692,
+   "repro_sd": 0.03,
+   "vocab_sd": 0.48,
+   "vocab_minus_repro": -0.63,
+   "ci95": [
+    -1.0,
+    -0.28
+   ]
+  },
+  "acc_everyday_train": {
+   "clip": 57.98,
+   "authors": 71.22,
+   "repro": 71.77,
+   "vocab": 71.45,
+   "ctrl_renderer": 71.45,
+   "ctrl_distractors": 70.92,
+   "n": 1692,
+   "repro_sd": 0.84,
+   "vocab_sd": 0.33,
+   "vocab_minus_repro": -0.32,
+   "ci95": [
+    -0.97,
+    0.36
+   ]
+  },
+  "hit_everyday_heldout": {
+   "clip": 31.02,
+   "authors": 11.25,
+   "repro": 10.41,
+   "vocab": 10.16,
+   "ctrl_renderer": 10.45,
+   "ctrl_distractors": 10.09,
+   "n": 6985,
+   "repro_sd": 0.6,
+   "vocab_sd": 0.8,
+   "vocab_minus_repro": -0.26,
+   "ci95": [
+    -0.52,
+    0.0
+   ]
+  },
+  "acc_everyday_heldout": {
+   "clip": 52.74,
+   "authors": 69.52,
+   "repro": 70.05,
+   "vocab": 69.46,
+   "ctrl_renderer": 69.89,
+   "ctrl_distractors": 70.08,
+   "n": 6985,
+   "repro_sd": 0.23,
+   "vocab_sd": 0.37,
+   "vocab_minus_repro": -0.58,
+   "ci95": [
+    -0.9,
+    -0.24
+   ]
+  }
+ },
+ "pets": {
+  "acc_clean": {
+   "clip": 77.95,
+   "authors": 79.5,
+   "repro": 79.93,
+   "vocab": 79.89,
+   "ctrl_renderer": 78.85,
+   "ctrl_distractors": 80.81,
+   "n": 3669,
+   "repro_sd": 1.01,
+   "vocab_sd": 0.66,
+   "vocab_minus_repro": -0.05,
+   "ci95": [
+    -0.44,
+    0.35
+   ]
+  },
+  "hit_in100": {
+   "clip": 17.55,
+   "authors": 2.83,
+   "repro": 2.93,
+   "vocab": 4.12,
+   "ctrl_renderer": 2.97,
+   "ctrl_distractors": 3.71,
+   "n": 3669,
+   "repro_sd": 0.47,
+   "vocab_sd": 0.86,
+   "vocab_minus_repro": 1.18,
+   "ci95": [
+    0.93,
+    1.46
+   ]
+  },
+  "acc_in100": {
+   "clip": 52.03,
+   "authors": 67.59,
+   "repro": 68.51,
+   "vocab": 67.87,
+   "ctrl_renderer": 68.66,
+   "ctrl_distractors": 68.52,
+   "n": 3669,
+   "repro_sd": 0.95,
+   "vocab_sd": 0.78,
+   "vocab_minus_repro": -0.65,
+   "ci95": [
+    -1.14,
+    -0.15
+   ]
+  },
+  "hit_everyday_train": {
+   "clip": 58.69,
+   "authors": 18.4,
+   "repro": 18.28,
+   "vocab": 15.46,
+   "ctrl_renderer": 17.95,
+   "ctrl_distractors": 18.4,
+   "n": 886,
+   "repro_sd": 1.57,
+   "vocab_sd": 2.33,
+   "vocab_minus_repro": -2.82,
+   "ci95": [
+    -3.76,
+    -1.92
+   ]
+  },
+  "acc_everyday_train": {
+   "clip": 31.94,
+   "authors": 61.4,
+   "repro": 62.11,
+   "vocab": 64.45,
+   "ctrl_renderer": 63.09,
+   "ctrl_distractors": 62.64,
+   "n": 886,
+   "repro_sd": 1.28,
+   "vocab_sd": 1.48,
+   "vocab_minus_repro": 2.33,
+   "ci95": [
+    1.32,
+    3.31
+   ]
+  },
+  "hit_everyday_heldout": {
+   "clip": 48.11,
+   "authors": 18.47,
+   "repro": 18.48,
+   "vocab": 16.52,
+   "ctrl_renderer": 18.25,
+   "ctrl_distractors": 17.61,
+   "n": 2783,
+   "repro_sd": 1.7,
+   "vocab_sd": 1.84,
+   "vocab_minus_repro": -1.96,
+   "ci95": [
+    -2.4,
+    -1.57
+   ]
+  },
+  "acc_everyday_heldout": {
+   "clip": 35.07,
+   "authors": 58.32,
+   "repro": 58.56,
+   "vocab": 60.09,
+   "ctrl_renderer": 58.53,
+   "ctrl_distractors": 60.11,
+   "n": 2783,
+   "repro_sd": 1.15,
+   "vocab_sd": 1.26,
+   "vocab_minus_repro": 1.53,
+   "ci95": [
+    0.96,
+    2.1
+   ]
+  }
+ }
+}
